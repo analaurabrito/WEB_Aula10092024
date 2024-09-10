@@ -6,7 +6,6 @@
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
 
-_API. CRUD. NODE. AI._ </br>
 > Esse repositório foi criado como atividade avaliativa para a disciplina de Programação Avançada WEB, da Universidade de Vila Velha, ministrada pelo professor Otávio Lube. O exercício consiste no desenvolvimento de uma API do tipo CRUD com Typescript, usando React, implementando o Prisma para conexão e migração do Banco de Dados e experimentando a inserção de AI através do GROQ.
 
 O projeto da API tem o controle dos modelos de usuário, posts e comentários.
